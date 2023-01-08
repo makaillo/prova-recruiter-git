@@ -31,6 +31,18 @@ body {
     text-decoration: none;
     margin-left: 20px;
   }
+
+  .titolo {
+    background-color: #f1f1f1;
+    color: #000080;
+    padding: 20px;
+  }
+
+  .testo {
+    background-color: #f1f1f1;
+    color: #000080;
+   margin-left: 20px;
+  }
   
   .section {
     background-color: white;
