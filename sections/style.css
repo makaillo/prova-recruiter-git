@@ -12,34 +12,59 @@ body {
     color: white;
     padding: 20px;
   }
+
+  h1 {
+    margin: 0;
+  }
+
+  nav {
+    display: flex;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+  }
   
 img {
     height: auto;
-    width: 250px;
+    width: 30%;
     align-items: center;
+    margin-left: 35%;
   }
 
 h2 {
   background-color: #f1f1f1;
   color: #000080;
   text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-top: 20px;
 }
 
 h3 {
   background-color: #f1f1f1;
   color: #000080;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
-  [attribute^="titolo"] {
-    background-color: #f1f1f1;
-    color: #000080;
-    padding: 20px;
-  }
+.titolo {
+  background-color: #f1f1f1;
+  color: #000080;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 30%;
+  margin-right: 30%;
+}
 
-  .testo {
-    background-color: #f1f1f1;
-    color: #000080;
-   margin-left: 20px;
-  }
+.testo {
+  background-color: #f1f1f1;
+  color: #000080;
+ margin-left: 30%;
+ margin-right: 30%;
+ margin-bottom: 7%;
+}
   
   

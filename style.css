@@ -35,13 +35,18 @@ body {
   .titolo {
     background-color: #f1f1f1;
     color: #000080;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
   }
 
   .testo {
     background-color: #f1f1f1;
     color: #000080;
-   margin-left: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+   margin-bottom: 7%;
   }
   
   .section {
